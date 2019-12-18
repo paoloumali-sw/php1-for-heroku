@@ -1,0 +1,10 @@
+{
+    "name": "paoloumali-sw/php1-for-heroku",
+    "authors": [
+        {
+            "name": "paoloumali-sw",
+            "email": "paolo.umali@solarwinds.cloud"
+        }
+    ],
+    "require": {}
+}
